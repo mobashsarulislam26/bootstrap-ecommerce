@@ -19,3 +19,41 @@
     padding:9px 25px;
     cursor:pointer;
 }
+.catone, .cattwo, .catthree{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catone{
+   background-color: orange;
+ 
+}
+.cattwo{
+  background-color:orchid;
+}
+.catthree{
+    background-color:blue ;
+
+}
+.categories h1{
+    color: white;
+}
+.categories img {
+    width: 100px;
+
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px wheat;
+    padding-bottom: 10px;
+
+}
+
+#contact{
+    height: 300px;
+    
+}
+#contact h6 {
+    color: forestgreen
+
+}
