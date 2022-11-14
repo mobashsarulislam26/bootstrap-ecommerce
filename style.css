@@ -20,7 +20,7 @@
     cursor:pointer;
 }
 .catone, .cattwo, .catthree{
-    padding: 10px 30px;
+    padding: 10px 30px; 
     border-radius: 10px;
 }
 .catone{
@@ -56,4 +56,6 @@
 #contact h6 {
     color: forestgreen
 
-}
+} 
+
+/* ahiusdhia */
